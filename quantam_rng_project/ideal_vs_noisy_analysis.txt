@@ -1,0 +1,19 @@
+Ideal vs Noisy Quantum Randomness Analysis
+=========================================
+
+Number of bits: 100
+
+Frequency Test:
+Ideal Quantum   -> 0s: 46, 1s: 54
+Noisy Quantum   -> 0s: 53, 1s: 47
+Classical       -> 0s: 51, 1s: 49
+
+Entropy:
+Ideal Quantum entropy   : 0.9954
+Noisy Quantum entropy   : 0.9974
+Classical entropy       : 0.9997
+
+Runs Test:
+Ideal Quantum runs   : 53
+Noisy Quantum runs   : 44
+Classical runs       : 47

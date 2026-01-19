@@ -1,0 +1,16 @@
+Quantum Randomness Analysis Results
+=================================
+
+Number of bits: 100
+
+Frequency Test:
+Quantum   -> 0s: 49, 1s: 51
+Classical -> 0s: 50, 1s: 50
+
+Entropy:
+Quantum entropy   : 0.9997
+Classical entropy : 1.0000
+
+Runs Test:
+Quantum runs   : 54
+Classical runs : 47
