@@ -95,6 +95,19 @@ This project demonstrates:
 
 ---
 
+## QRNG Service (API)
+
+This project also provides a Quantum Random Number Generator as a REST API using FastAPI.
+
+Available endpoints:
+- `/random/ideal` – Ideal quantum randomness
+- `/random/noisy` – Hardware-like noisy quantum randomness
+- `/random/classical` – Classical randomness
+- `/analyze` – Randomness quality analysis (entropy, frequency)
+
+Interactive API documentation is available at `/docs` when the service is running.
+
+
 ## Author
 Boligila Bhuvanesh sai
 Quantum Computing Project
